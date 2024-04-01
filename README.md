@@ -1,16 +1,32 @@
-### Hi there 👋
+# Hello, I'm Pedro Célestin
+<a href="https://www.linkedin.com/in/pedrocrc/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-<!--
-**pedrocrc/pedrocrc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I have over 10 years of experience working in Information Technology. Currently, I work as the Principal Software Reliability Engineer at CLDF, where I lead several projects focusing on improving the digital services' reliability and cost-effectiveness. In all my work, I always focus on creating reliable digital products and services that make a positive impact on people's lives.
 
-Here are some ideas to get you started:
+At CLDF I led the migration of the existing IT architecture into a cloud-native environment, optimizing resource utilization and achieving a cost reduction of 20% while improving scalability. The same project also included the implementation of Site Reliability Engineering - SRE practices, automated monitoring and alerting systems and evolution of incident management processes. This resulted in improvement of compliance with security and governance standards and an increase of 5% of systems availability. Such project was possible thanks to great tools such as Kubernetes, Jenkins CI, Git, GitOps, Prometheus, Grafana, Thanos, Alertmanager, Terraform and Ansible.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Also at CLDF, I've teamed with DevOps Engineers to establish a reliable corporate logs architecture based on OpenTelemetry, Apache Kafka and ElasticSearch, resulting in reducing log losses by 100%.
+
+With a strong belief in prioritizing vendor-agnostic solutions, I've always prioritized the usage of open standards, while using several resources from public cloud vendors, balancing flexibility and cost-effectiveness when making architectural decisions.
+
+I also mentor and coach startup founders and entrepreneurs on digital transformation, customer experience, service design, lean startup, and agile methodologies, with the aim of helping them achieve their goals and grow their businesses.
+
+Competencies: Site Reliability Engineering - SRE, Kubernetes, Amazon Web Services, Google Cloud Platform, Golang, Security, CI/CD
+
+## Objective
+
+My journey in IT has led me to develop a passion for changing people's lifes through innovation and technology, and I am eager to grow each day into tech to generate a bigger impact each day.
+
+## Skills
+
+| Skill                                         | Associated Project         |
+|-----------------------------------------------|----------------------------|
+| Site Reliability Engineering, Observability, Monitoring, Data Engineering, Prometheus, OpenTelemetry, Apache Kafka          | |
+| Observability, Monitoring, Prometheus, Go Lang, Kubernetes, Containers | https://github.com/pedrocrc/unity2promgo |
+
+## Tools
+
+### Network
+<div>
+    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
+</div>
