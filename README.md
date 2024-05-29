@@ -15,18 +15,18 @@ Competencies: Site Reliability Engineering - SRE, Kubernetes, Amazon Web Service
 
 ## Objective
 
-My journey in IT has led me to develop a passion for changing people's lifes through innovation and technology, and I am eager to grow each day into tech to generate a bigger impact each day.
+My journey in IT has led me to develop a passion for changing people's lifes through innovation and technology, and I am eager to keep growing into tech to generate a bigger impact each day.
 
 ## Skills
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Site Reliability Engineering, Observability, Monitoring, Data Engineering, Prometheus, OpenTelemetry, Apache Kafka          | |
-| Observability, Monitoring, Prometheus, Go Lang, Kubernetes, Containers | https://github.com/pedrocrc/unity2promgo |
+| Site Reliability Engineering, Observability, Monitoring, Data Engineering, Prometheus, OpenTelemetry, Apache Kafka          | https://github.com/pedrocrc/observability-architecture/ |
+| Observability, Monitoring, Prometheus, Go Lang, Kubernetes, Containers | https://github.com/pedrocrc/unity2promgo | |
 
-## Tools
+## Published Articles
 
-### Network
-<div>
-    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-</div>
+| Title |
+|-------|
+| [Companies shall no longer ignore SRE](https://medium.com/@pedrocrc/companies-shall-no-longer-ignore-sre-164ea90f5593) |
+| [Reliability management is about embracing the infinite game](https://medium.com/@pedrocrc/reliability-management-is-about-embracing-the-infinite-game-65676a08dcba) |
