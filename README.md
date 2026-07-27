@@ -28,5 +28,7 @@ My journey in IT has led me to develop a passion for changing people's lifes thr
 
 | Title |
 |-------|
+| [Why Raw LLMs Fail at Capacity Planning (And How GitOps Fixes It)](https://medium.com/@pedrocrc/why-raw-llms-fail-at-capacity-planning-and-how-gitops-fixes-it-8064f5be1785) |
+| [Integrating data center observability into cloud-native environment](https://medium.com/@pedrocrc/integrating-data-center-observability-into-cloud-native-environment-c9bdd3b4156d) |
 | [Companies shall no longer ignore SRE](https://medium.com/@pedrocrc/companies-shall-no-longer-ignore-sre-164ea90f5593) |
 | [Reliability management is about embracing the infinite game](https://medium.com/@pedrocrc/reliability-management-is-about-embracing-the-infinite-game-65676a08dcba) |
